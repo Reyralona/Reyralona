@@ -6,18 +6,6 @@
 
 ###
 
-<img align="left" height="200" src="https://media.tenor.com/KkYpAtAcSR8AAAAC/plini-cascade.gif"  />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ha08uk2qb4vfd2fadjegbb8l7">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <h1 align="center">Languages</h1>
 
 ###
@@ -110,8 +98,3 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Reyralona.Reyralona&left_color=black&right_color=tomato&left_text=Honestly, not that many visitors."  />
-</div>
-
-###
