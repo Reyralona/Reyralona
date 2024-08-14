@@ -29,9 +29,8 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div style="width: 100%;">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyralona&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</div>
+<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyralona&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+>
 
 <div style="text-align: center;">
   <a href="https://visitcount.itsvg.in">
