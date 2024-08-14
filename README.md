@@ -31,7 +31,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyralona&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Reyralona&icon=0&color=7" alt="Visit Count"/>
   </a>
